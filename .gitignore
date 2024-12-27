@@ -1,0 +1,12 @@
+# virtual environment
+quality_env/
+
+.DS_Store
+
+# ignore all files in the outputs folder
+outputs/
+
+# ignore all files in the models folder
+models/
+
+
